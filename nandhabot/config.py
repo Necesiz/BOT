@@ -3,17 +3,17 @@ from pyrogram import Client as bot
 
 
 
-BOT_ID = 5515671520
-BOT_USERNAME = "TrunksRobot"
-BOT_NAME = "TrunksRobot"
-BOT_MENTION = "[TrunksRobot](tg://user?id=5515671520)"
+BOT_ID = 5854631326
+BOT_USERNAME = "ASİSTAN BOT"
+BOT_NAME = "TGAsisstanbot"
+BOT_MENTION = "[TGAsisstanbot](tg://user?id=5854631326)"
 
 OWNER_ID = 1491497760
-API_ID = 56678
-API_HASH = "nou"
-BOT_TOKEN = "nou"
-UPDATES_CHANNEL = "TrunksUpdates"
-SUPPORT_CHAT = "TrunksSupport"
-LOG_GROUP_ID = "-1001690512977"
-ARQ_API_KEY = ""
+API_ID = 15954332
+API_HASH = "85adea6f1eaf068b707703b4846a9ced"
+BOT_TOKEN = "5854631326:AAErlQtcT-623j3pNcREUnXKKDqOOgq9Fgw"
+UPDATES_CHANNEL = "TeamabasofCom"
+SUPPORT_CHAT = "TeamabasofCom"
+LOG_GROUP_ID = "-1001737573985"
+ARQ_API_KEY = "LIBXLP-ZXPBIJ-EVIGYQ-MEBOWV-ARQ"
 ARQ_API_URL = "https://arq.hamker.in"
